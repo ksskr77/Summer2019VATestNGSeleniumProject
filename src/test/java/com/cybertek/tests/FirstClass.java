@@ -12,5 +12,7 @@ public class FirstClass {
         System.out.println(faker.name().fullName());
 
         System.out.println(faker.chuckNorris().fact());
+
+
     }
 }
